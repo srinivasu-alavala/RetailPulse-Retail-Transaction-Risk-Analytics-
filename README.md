@@ -1,4 +1,4 @@
-# RetailPulse — Retail Transaction Analytics & Business Intelligence
+# RetailPulse – Retail Transaction & Risk Analytics 
 
 > An end-to-end Data Analytics project transforming 1M+ real-world retail transactions into actionable business insights using Python and Power BI.
 
